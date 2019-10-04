@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "route": "/pyPost",
+      "address": "http://localhost:5000"
+    },
+    {
+      "route": "/javaGet",
+      "address": "http://35.188.66.232:8005"
+    }
+  ]
+}
